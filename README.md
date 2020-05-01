@@ -1,2 +1,3 @@
 # PESU-IO-WinForms
-A PESU-IO course I took aboit Winforms and used Visual Studio. 
+A PESU-IO course I took about Winforms and used Visual Studio. 
+The apps is used to display six most important contacts.
